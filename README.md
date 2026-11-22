@@ -44,7 +44,7 @@ part of the product for a new user. QU is not a token contract, QX and QTRY are 
 thing, and the wallet displays them in a way that makes the difference easy to miss. Those pages spend
 their length on the distinction rather than on steps.
 
-## Who it is for
+## Who it is for?
 
 - Users who want to know whether the wallet supports a feature before they need it.
 - People holding more than QU and unsure what the other assets in the list actually are.
